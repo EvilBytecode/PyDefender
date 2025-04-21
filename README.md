@@ -33,3 +33,7 @@
 
 ### Quick Nutshell
 - PyDefender provides comprehensive anti-virtualization and anti-debugging measures to enhance program security by detecting and countering various forms of virtualization and debugging activities.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
