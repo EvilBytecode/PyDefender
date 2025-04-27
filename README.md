@@ -1,4 +1,6 @@
 # PyDefender
+## Telegram:
+- https://t.me/ebytelabs
 - This Python code provides functionality to detect and defend against various forms of debugging tools and virtualization environments.
 
 ![PyDefender](PyDefender.png)
